@@ -29,7 +29,7 @@ In this class we will take the same approach. Each assignment will be reviewed a
 
 | Week Number | Date | Concept | Description | Notes
 | --- | --- | --- | --- | ---
-| 1 | August 23 | Introduction 
+| 1 | August 23 | [Introduction](/plans/101-introduction.md) 
 | 2 | August 30 | Python Syntax
 | 3 | September 6 | Variables
 | 4 | September 13 | Conditions
