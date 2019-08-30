@@ -8,4 +8,4 @@ This is all of my lesson plans for a coding class I am doing for Trinity Classic
 
 | Level | Language | Concepts | Syllabus
 | --- | --- | --- | ---
-| 1 | Python | Programming Basics, high-level OOP (?) | [Sauce](/plans/1xx.md)
+| 1 | Python | Programming Basics | [Sauce](/plans/1xx.md)

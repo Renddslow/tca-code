@@ -16,7 +16,7 @@ I attended the University of Valley Forge, majoring in youth ministry then Bible
 
 ## Course Materials and Requirements
 - A laptop/portable computer with Internet access.
-- A local development environment (see the [setup guide](/SETUP.md) for everything you need to get up and running)
+- A local development environment (see the [setup guide](https://gist.github.com/Renddslow/3ee1cf06d210c82a808fc54baaf11225) for everything you need to get up and running)
 - A Bitbucket account. You should receive an email invite from me prior to your first day of class. Please come with this set up.
 
 
@@ -29,18 +29,17 @@ In this class we will take the same approach. Each assignment will be reviewed a
 
 | Week Number | Date | Concept | Description | Notes
 | --- | --- | --- | --- | ---
-| 1 | August 23 | [Introduction](/plans/101-introduction.md) 
-| 2 | August 30 | Python Syntax
-| 3 | September 6 | Variables
-| 4 | September 13 | Conditions
-| 5 | September 20 | Documentation and Libraries
+| 1 | August 30 | [Introduction](/plans/101-introduction.md) 
+| 3 | September 6 | Python Syntax and Documentation 
+| 4 | September 13 | Variables
+| 5 | September 20 | Conditions
 | 6 | September 27 | Functions
 | 7 | October 4 | Loops
 | 8 | October 11 | Lists (Arrays)
 | 9 | October 25 | | | End of Quarter
 | 10 | November 1 | Dictionaries
-| 11 | November 8 | Classes, part 1
-| 12 | November 15 | Classes, part 2
+| 11 | November 8 | "State"
+| 12 | November 15 | The Game Loop
 | 13 | November 22 | Final Project, feature 1
 | 14 | December 6 | Final Project, feature 2
 | 15 | December 13 | Final Project, feature 3
