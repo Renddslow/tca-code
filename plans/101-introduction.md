@@ -27,6 +27,8 @@ If you do not have your machine set up do not worry, we'll take some time after 
 
 [Student Handout](https://bit.ly/2NG46hh)
 
+**https://bit.ly/2NG46hh**
+
 1. Class is for you
     1. What do you want to do by the end of this class that you cannot do now?
     2. Respond, clarify expectations
