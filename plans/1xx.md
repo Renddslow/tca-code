@@ -30,8 +30,8 @@ In this class we will take the same approach. Each assignment will be reviewed a
 | Week Number | Date | Concept | Description | Notes
 | --- | --- | --- | --- | ---
 | 1 | August 30 | [Introduction](/plans/101-introduction.md)  
-| 4 | September 6 | Variables
-| 3 | September 13 | Python Syntax and Documentation
+| 4 | September 6 | [Variables](/plans/102-variables.md)
+| 3 | September 13 | Arithmetic
 | 5 | September 20 | Conditions
 | 6 | September 27 | Functions
 | 7 | October 4 | Loops
