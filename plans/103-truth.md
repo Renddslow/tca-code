@@ -38,7 +38,8 @@ Role call
 3. Equality
     1. What an equality check is
     2. Equality checks in Python (ex. 1)
-    3. Data-type equality (ex. 2)
+    3. Variable naming conventions
+    4. Data-type equality (ex. 2)
 4. Conjunctions
     1. What a conjunction is (Venn Diagram)
     2. Conjunctions in Python (ex. 3)
