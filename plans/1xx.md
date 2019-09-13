@@ -31,7 +31,7 @@ In this class we will take the same approach. Each assignment will be reviewed a
 | --- | --- | --- | --- | ---
 | 1 | August 30 | [Introduction](/plans/101-introduction.md)  
 | 4 | September 6 | [Variables](/plans/102-variables.md)
-| 3 | September 13 | Arithmetic
+| 3 | September 13 | [Booleans and Truth](/plans/103-truth.md)
 | 5 | September 20 | Conditions
 | 6 | September 27 | Functions
 | 7 | October 4 | Loops
