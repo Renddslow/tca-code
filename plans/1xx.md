@@ -32,8 +32,8 @@ In this class we will take the same approach. Each assignment will be reviewed a
 | 1 | August 30 | [Introduction](/plans/101-introduction.md)  
 | 4 | September 6 | [Variables](/plans/102-variables.md)
 | 3 | September 13 | [Booleans and Truth](/plans/103-truth.md)
-| 5 | September 20 | Conditions
-| 6 | September 27 | Functions
+| 5 | September 20 | [Conditions](/plans/104-conditionals.md)
+| 6 | September 27 | [Functions](/plans/105-functions.md)
 | 7 | October 4 | Loops
 | 8 | October 11 | Lists (Arrays)
 | 9 | October 25 | | | End of Quarter
