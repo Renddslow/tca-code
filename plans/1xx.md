@@ -30,17 +30,16 @@ In this class we will take the same approach. Each assignment will be reviewed a
 | Week Number | Date | Concept | Description | Notes
 | --- | --- | --- | --- | ---
 | 1 | August 30 | [Introduction](/plans/101-introduction.md)  
-| 4 | September 6 | [Variables](/plans/102-variables.md)
+| 2 | September 6 | [Variables](/plans/102-variables.md)
 | 3 | September 13 | [Booleans and Truth](/plans/103-truth.md)
-| 5 | September 20 | [Conditions](/plans/104-conditionals.md)
-| 6 | September 27 | [Functions](/plans/105-functions.md)
-| 7 | October 4 | Loops
-| 8 | October 11 | Lists (Arrays)
-| 9 | October 25 | | | End of Quarter
-| 10 | November 1 | Dictionaries
-| 11 | November 8 | "State"
-| 12 | November 15 | The Game Loop
-| 13 | November 22 | Final Project, feature 1
-| 14 | December 6 | Final Project, feature 2
-| 15 | December 13 | Final Project, feature 3
-| 16 | December 20 | Final Project, feature 4
+| 4 | September 20 | [Conditions](/plans/104-conditionals.md)
+| 5 | September 27 | [Functions](/plans/105-functions.md)
+| 6 | October 4 | Functions, Q&A
+| 7 | October 25 | Dictionaries
+| 8 | November 1 | Lists
+| 9 | November 8 | Loops
+| 10 | November 15 | The Game Loop
+| 11 | November 22 | Final Project, feature 1
+| 12 | December 6 | Final Project, feature 2
+| 13 | December 13 | Final Project, feature 3
+| 14 | December 20 | Final Project, feature 4
