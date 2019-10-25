@@ -58,7 +58,8 @@
         else:
             print("Weak.")
    ```
-4. Nesting data
+4. Setting data
+5. Nesting data
     ```
     game = {
         "player": {
@@ -67,8 +68,8 @@
         }
     }
     ```
-5. Safety
+6. Safety
     1. Now we can't always guarantee our data is there
     2. Python has the `in` keyword
-6. Explain homework
+7. Explain homework
 
